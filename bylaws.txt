@@ -48,7 +48,7 @@ special Election submitted to the ASWVC Senate, provided that:
 Clause 1: Constitutional amendments shall be publicly posted and announced in a regular meeting of the ASWVC Senate, as outlined in the bylaws of this constitution, for at least fourteen (14) consecutive calendar days immediately prior to the election.
 Clause 2: Adoption of amendments to this Constitution shall require two-thirds (2/3) favorable vote of those legal ballots cast in an election of the ASWVC.
 Section 1: A legal ballot shall be defined as a physical or electronic document that includes a form of identification—used to prevent miscount of the votes—as well as the voting members declaration of either yea or nay for the proposed amendment.
-    A. Said legal ballot must be easily accessible for one (1) year after the voting process to future Executive Board Members for the purpose of record keeping
+		A. Said legal ballot must be easily accessible for one (1) year after the voting process to future Executive Board Members for the purpose of record keeping
 Section 2: Voting may be conducted through a physical document created by the ASWVC Executive Board
 Section 3: Voting may be conducted through electronic means
 Section 4: A student may only vote once (1), either yea or nay, for the proposed constitutional amendment.
@@ -56,12 +56,12 @@ Clause 3: The voting period on the suggested constitutional amendment shall rema
 Clause 4: Adoption of amendments to this constitution shall be effective immediately upon certification of the election results by the ASWVC Advisor.
 
 Constitutional Amendment Log
-January 1984 		Adoption of Constitution
-August 1993 		“treasure” typo corrected
-December 1994 	Name Change, ASBWVC to ASWVC
-December 1994 	Article VI, Section 1, Clause 1, 10% changed to 5% 12/94 Rules of Order
+January 1984		Adoption of Constitution
+August 1993			“treasure” typo corrected
+December 1994		Name Change, ASBWVC to ASWVC
+December 1994		Article VI, Section 1, Clause 1, 10% changed to 5% 12/94 Rules of Order
 change Sturgis to Roberts
-September 2007 	Constitution Retyped
+September 2007	Constitution Retyped
 April 2016		Name Changed from Associated Student Organization to
 Associate Student of West Valley College (ASWVC), Positions within ASWVC redefined, and Constitution Retyped
 March 2023		Article I, Associated Students at West Valley College changed to
@@ -155,8 +155,8 @@ Clause 1: All Executive Board members must have a 2.0 cumulative GPA and maintai
 Clause 2: New students to West Valley College, without completed units will have the GPA requirement waived until their first completed semester.
 Clause 3: All officers must be enrolled in five (5) or more units at the time of their election and during their time in office or they will be automatically removed at the next regular ASWVC meeting.
 Clause 4: All Executive Board members must remain in good standing with the West Valley College Student Code of Conduct, as well as all West Valley College Campus Policies and West Valley College Board Policies.
-A. 	If a candidate in a regular ASWVC Election or ASWVC Vacancy Process is in violation of the West Valley College Student Code of Conduct, their candidacy may be immediately removed.
-B. 	If an Executive Board member is in violation of the West Valley College Student Code of Conduct, they may be immediately removed from office.
+A.	If a candidate in a regular ASWVC Election or ASWVC Vacancy Process is in violation of the West Valley College Student Code of Conduct, their candidacy may be immediately removed.
+B.	If an Executive Board member is in violation of the West Valley College Student Code of Conduct, they may be immediately removed from office.
 Clause 5: All Executive Board members must be in consistent attendance and have no existing scheduling conflicts with all regular ASWVC Senate meetings and ASWVC Executive Board meetings throughout the entirety of the academic school year.
 
 ARTICLE VII
@@ -168,18 +168,18 @@ Clause 3: A student may not serve on the Executive Board for more than three (3)
 Clause 4: For purposes of determining eligibility to continue in office, an officer who has served more than half a term is considered to have served a full term.
 Section 2: Absences and Tardiness for ASWVC-Sponsored Meetings and Events
 Clause 1: For an excused absence, the ASWVC Senator or ASWVC Executive Board member must give adequate notice of being absent or be absent for an emergency or medical reason.
-    A. Adequate notice shall be defined as notifying the respective meeting Chair 72 hours in advance of the meeting at which the ASWVC Senator or ASWVC Executive Board member cannot be in attendance.
-    B. If an Executive Board Officer is unable to attend an event for a non-emergency related matter such as a schedule conflict, the Executive Board Officer shall communicate that absence to the ASWVC President 72 hours in advance. This shall be considered an excused absence.
-    C. If an Executive Board Officer is unable to attend a Senate or Committee Meeting, they shall communicate their absence 72 hours in advance to the Vice President.
-    D. If an Executive Board Officer is unable to attend an Executive Board Meeting, they shall communicate their absence 72 hours in advance to the President.
-    E. All other absences shall be considered unexcused.
+		A. Adequate notice shall be defined as notifying the respective meeting Chair 72 hours in advance of the meeting at which the ASWVC Senator or ASWVC Executive Board member cannot be in attendance.
+		B. If an Executive Board Officer is unable to attend an event for a non-emergency related matter such as a schedule conflict, the Executive Board Officer shall communicate that absence to the ASWVC President 72 hours in advance. This shall be considered an excused absence.
+		C. If an Executive Board Officer is unable to attend a Senate or Committee Meeting, they shall communicate their absence 72 hours in advance to the Vice President.
+		D. If an Executive Board Officer is unable to attend an Executive Board Meeting, they shall communicate their absence 72 hours in advance to the President.
+		E. All other absences shall be considered unexcused.
 Clause 2: In the event that the Officer has had five (5) unexcused absences, it is recommended that the Executive Board submit a “Vote of No Confidence” to the ASWVC Senate for that Executive Board Officer.
-    A. Two (2) instances of tardiness shall equal (1) unexcused absence. For the purpose of calculating absences, tardiness is defined as arriving after the roll call or after the posted start time of an ASWVC-Sponsored Event.
-    B. Two (2) excused absences shall equal (1) unexcused absence.
+		A. Two (2) instances of tardiness shall equal (1) unexcused absence. For the purpose of calculating absences, tardiness is defined as arriving after the roll call or after the posted start time of an ASWVC-Sponsored Event.
+		B. Two (2) excused absences shall equal (1) unexcused absence.
 Clause 3: Paid Hours
-    A. All ASWVC officers shall post and hold a minimum of three (3) “Office Hours” per week on behalf of the students that must be spent in their ASWVC office.
-    B. All ASWVC officers shall post and hold a minimum of three (3) “Work Hours” per week that must be spent on West Valley College’s Campus.
-    C. Three (3) instances of an officer failing to hold these hours, as posted,
+		A. All ASWVC officers shall post and hold a minimum of three (3) “Office Hours” per week on behalf of the students that must be spent in their ASWVC office.
+		B. All ASWVC officers shall post and hold a minimum of three (3) “Work Hours” per week that must be spent on West Valley College’s Campus.
+		C. Three (3) instances of an officer failing to hold these hours, as posted,
 shall equal one (1) absence, unless excused by the President or Presiding Officer (if President is not available).
 Clause 4: The President, Vice President, Director of Student Engagement, and Director of Records shall keep a public record of all unexcused and excused absences for Executive Board Officers.
 
@@ -208,7 +208,7 @@ Clause 2: All vacancies shall be posted for a minimum of one week, in the same m
 Section 2: Interested students must fill out an application for the open position.
 Clause 1: Before being appointed all individuals must be interviewed by the Executive Board at an Executive Board meeting.
 Clause 2: The Executive Board will then forward two candidates to face off in a regular meeting of the ASWVC Senate for consideration.
-A. 	In the event that only one student applies for any position, the Executive Board may put forth only one candidate to the Senate.
+A.	In the event that only one student applies for any position, the Executive Board may put forth only one candidate to the Senate.
 Clause 3: The successor to any position vacated will be appointed by a majority of the Senate.
 Clause 4: Any position filled by the Senate shall be for the remaining period of office in said term.
 
@@ -220,10 +220,10 @@ Section 3: Removal of Senators and Executive Officers as per a Vote of No Confid
 Clause 1: Any member of the Senate with active voting rights has the right to request a vote of no confidence.
 Clause 2: A vote of no confidence applies to Senators and Executive Board Officers.
 Clause 3: The request for a vote of no confidence must be lodged in an open, regularly scheduled meeting of the Senate.
-    A. A Vote of No Confidence shall be requested by a voting member of the Senate under Public Comments.
+		A. A Vote of No Confidence shall be requested by a voting member of the Senate under Public Comments.
 Clause 4: The vote of no confidence shall be taken at the next scheduled meeting after the initial request.
 Clause 5: A two-thirds (2/3) vote of the Senate members present and voting shall be necessary to qualify as a "vote of no confidence."
-    A. Should the Vote of No Confidence be put forth against a voting member of the ASWVC Senate or the ASWVC Executive Board, that individual does not retain the right to vote in their own Vote of No Confidence.
+		A. Should the Vote of No Confidence be put forth against a voting member of the ASWVC Senate or the ASWVC Executive Board, that individual does not retain the right to vote in their own Vote of No Confidence.
 Clause 6: A vote of no confidence shall result in a removal of office and the loss of voting rights.
 Clause 7: A vote of no confidence is not subject to a presidential veto.
 Clause 8: Any person who receives a vote of no confidence has the right to appeal to the ASWVC Advisor within five (5) business days.
@@ -315,160 +315,160 @@ ARTICLE XIV
 Executive Board Responsibilities
 Section 1: Duties and Responsibilities by Office.
 Clause 1: President’s Responsibilities
-A. 	Act as the Chief Executive Officer and official spokesperson of the ASWVC.
+A.	Act as the Chief Executive Officer and official spokesperson of the ASWVC.
 B.	Serve as the Chairperson of the Executive Board.
 C.	Have the power to veto legislative actions of the ASWVC.
-1. 	Must exercise the option of veto within seven (7) days of
+1.	Must exercise the option of veto within seven (7) days of
 the action by ASWVC.
-2. 	Veto must be put on display as a public notice in the same
+2.	Veto must be put on display as a public notice in the same
 manner as Senate meeting agendas for at least one week.
-3. 	Veto may be overridden by a two thirds (2/3) favorable
+3.	Veto may be overridden by a two thirds (2/3) favorable
 vote of the voting membership of the ASWVC at a regular scheduled meeting within the next two (2) regular meetings, following the posting and transmission of veto.
-D. 	Appoint temporary replacements for any vacancies, until a permanent
+D.	Appoint temporary replacements for any vacancies, until a permanent
 replacement can be appointed.
-1. 	Temporary replacements shall last 6 weeks, or until the next ASWC Senate meeting, whichever is longer in duration. A permanent appointment shall be appointed by the end of this duration.
-E. 	Serve as an Ex Officio member on all ASWVC internal Committees.
-F. 	Represent the ASWVC at the West Valley-Mission Community College
+1.	Temporary replacements shall last 6 weeks, or until the next ASWC Senate meeting, whichever is longer in duration. A permanent appointment shall be appointed by the end of this duration.
+E.	Serve as an Ex Officio member on all ASWVC internal Committees.
+F.	Represent the ASWVC at the West Valley-Mission Community College
 District Board of Trustees meetings, or delegate a representative from the ASWVC.
 G.	Give a report to the ASWVC at every regular Senate meeting.
-H. 	Shall attend, represent, and vote for ASWVC at all SSCCC Region IV
+H.	Shall attend, represent, and vote for ASWVC at all SSCCC Region IV
 Meetings or appoint the ASWVC delegate.
-I. 	Give monthly reports of SSCCC of the California Community College
+I.	Give monthly reports of SSCCC of the California Community College
 meetings and business.
-J. 	Act as liaison between local, state and federal government and the
+J.	Act as liaison between local, state and federal government and the
 ASWVC.
-K. 	Inform the ASWVC of all government legislation, which pertains to
+K.	Inform the ASWVC of all government legislation, which pertains to
 WVC.
-L. 	Establish frequent communication with district administration.
-M. 	Establish frequent communication with West Valley College students, faculty, and administration.
-N. 	Coordinate with Student Services consistently throughout the year to discuss ASWVC activities and events.
-O. 	Serve as the ASWVC representative to College Council or designate an
+L.	Establish frequent communication with district administration.
+M.	Establish frequent communication with West Valley College students, faculty, and administration.
+N.	Coordinate with Student Services consistently throughout the year to discuss ASWVC activities and events.
+O.	Serve as the ASWVC representative to College Council or designate an
 ASWVC delegate.
-P. 	Serve on the Graduation Committee or designate an ASWVC designee.
-Q. 	Serve on the Career & Internship Readiness Week Committee, or assign ASWVC designee.
+P.	Serve on the Graduation Committee or designate an ASWVC designee.
+Q.	Serve on the Career & Internship Readiness Week Committee, or assign ASWVC designee.
 R.	Hold ASWVC Executive Board Officers accountable to the following requirements:
-    1. Ten (10) hours of on-campus time dedicated to ASWVC activities
-    2. Attendance at all ASWVC-sponsored events.
-    3. Attendance at all appropriate Executive Board, Senate, and Committee Meetings.
-S. 	Coordinate appropriate disciplinary actions with ASWVC Advisor and appropriate Executive Board Member if Article XIV, Section 1, Clause 1R requirements are not followed.
+		1. Ten (10) hours of on-campus time dedicated to ASWVC activities
+		2. Attendance at all ASWVC-sponsored events.
+		3. Attendance at all appropriate Executive Board, Senate, and Committee Meetings.
+S.	Coordinate appropriate disciplinary actions with ASWVC Advisor and appropriate Executive Board Member if Article XIV, Section 1, Clause 1R requirements are not followed.
 T.	Serve as Chairperson for the Elections Committee, or assign a designee if running for office for the following academic year.
-U. 	Bear the responsibility of holding all Executive Board Members accountable to their responsibilities, and recommend appropriate disciplinary action for any malfeasance.
-V. 	Hold regularly scheduled meetings with appropriate Executive Board Members.
-W. 	Review and approve event responsibilities assigned by the Director of Student Engagement to the Executive Board prior to events.
-X. 	Represent the ASWVC at West Valley-Mission District Council meetings, or appoint a delegate from the ASWVC Student Senate or Executive Board.
+U.	Bear the responsibility of holding all Executive Board Members accountable to their responsibilities, and recommend appropriate disciplinary action for any malfeasance.
+V.	Hold regularly scheduled meetings with appropriate Executive Board Members.
+W.	Review and approve event responsibilities assigned by the Director of Student Engagement to the Executive Board prior to events.
+X.	Represent the ASWVC at West Valley-Mission District Council meetings, or appoint a delegate from the ASWVC Student Senate or Executive Board.
 Clause 2: Vice President Responsibilities
-A. 	Perform the duties of the President in the event of their absence, disability,
+A.	Perform the duties of the President in the event of their absence, disability,
 or removal from the office.
-B. 	Serve as the Chairperson of the ASWVC Senate.
-C. 	Serve on the Executive Board of the ASWVC.
-D. 	Enforce all rules, regulations, and procedures passed by the ASWVC
+B.	Serve as the Chairperson of the ASWVC Senate.
+C.	Serve on the Executive Board of the ASWVC.
+D.	Enforce all rules, regulations, and procedures passed by the ASWVC
 and/or stated in the ASWVC Constitution and Bylaws.
-E. 	Shall maintain a record of all Senators with active voting rights.
-F. 	Have the authority to delegate duties and responsibilities to all Senators.
+E.	Shall maintain a record of all Senators with active voting rights.
+F.	Have the authority to delegate duties and responsibilities to all Senators.
 G.	Bring forth amendments to the ASWVC Constitution and Bylaws to the attention of the ASWVC Senate as needed.
-H. 	Form and dissolve committees, organizations and associations for specific
+H.	Form and dissolve committees, organizations and associations for specific
 purposes to conform to the bylaws contained herein.
-I. 	Have authority to appoint Senators to help with programs, events or any
+I.	Have authority to appoint Senators to help with programs, events or any
 other ASWVC business.
-J. 	Give a report to the ASWVC at every regular Senate meeting.
-K. 	Shall attend, represent, and vote for ASWVC at all SSCCC Region IV
+J.	Give a report to the ASWVC at every regular Senate meeting.
+K.	Shall attend, represent, and vote for ASWVC at all SSCCC Region IV
 Meetings as the alternate delegate or appoint a different ASWVC representative as the alternate delegate.
 Clause 3: Student Trustee Responsibilities
-A. 	Inform the ASWVC of all West Valley-Mission Community College
+A.	Inform the ASWVC of all West Valley-Mission Community College
 District Board of Trustees actions.
-B. 	Serve on the Executive Board of the ASWVC.
-C. 	Attend all West Valley-Mission Community College District Board of
+B.	Serve on the Executive Board of the ASWVC.
+C.	Attend all West Valley-Mission Community College District Board of
 Trustees meetings.
-D. 	Announce appropriate West Valley-Mission Community College District Board of Trustees agenda items to the ASWVC.
-F. 	Be responsible and accountable to the students of the district and their
+D.	Announce appropriate West Valley-Mission Community College District Board of Trustees agenda items to the ASWVC.
+F.	Be responsible and accountable to the students of the district and their
 elected officers.
-G. 	Make themselves informed about those issues that have a direct or
+G.	Make themselves informed about those issues that have a direct or
 significant impact on students of the district and such issues that are brought to the attention of the Student Trustee by any concerned students.
-H. 	Gather student input and disseminate information by meeting at least once
+H.	Gather student input and disseminate information by meeting at least once
 per month, school calendar permitting, at a scheduled meeting of the student government organization at their respective College and in other ways as appropriate.
-I. 	Be subject to recall in the manner prescribed by the procedures established
+I.	Be subject to recall in the manner prescribed by the procedures established
 by the Board of Trustees.
-J. 	Their external committee shall be the Board of Trustees meetings.
-K. 	Give a report to the ASWVC at every regular Senate meeting.
-L. 	Represent the ASWVC at West Valley-Mission District Council meetings, or appoint a delegate from the ASWVC Student Senate or Executive Board.
+J.	Their external committee shall be the Board of Trustees meetings.
+K.	Give a report to the ASWVC at every regular Senate meeting.
+L.	Represent the ASWVC at West Valley-Mission District Council meetings, or appoint a delegate from the ASWVC Student Senate or Executive Board.
 Clause 4: Director of Finance
-A. 	Serve as Chairperson of the Budget and Finance Committee.
-B. 	Perform and enforce all procedures outlined in the ASWVC Financial Code.
-C. 	Serve on the Executive Board of the ASWVC.
-D. 	Maintain the account for all ASWVC money on a day to day basis.
-E. 	Submit a comprehensive monthly report of income, expenses, and state of reserves and progress of the budget of the ASWVC to the ASWVC Advisor.
-F. 	Give a report every regular Senate meeting to the ASWVC of ASWVC financial status.
+A.	Serve as Chairperson of the Budget and Finance Committee.
+B.	Perform and enforce all procedures outlined in the ASWVC Financial Code.
+C.	Serve on the Executive Board of the ASWVC.
+D.	Maintain the account for all ASWVC money on a day to day basis.
+E.	Submit a comprehensive monthly report of income, expenses, and state of reserves and progress of the budget of the ASWVC to the ASWVC Advisor.
+F.	Give a report every regular Senate meeting to the ASWVC of ASWVC financial status.
 G.	Maintain the account for all ASWVC funds on a day-to-day basis.
 H.	Keeps records of decisions made in meetings.
 I.	Coordinates records with the ASWVC Advisor.
 J.	Submitted all check requests and reimbursements.
 K.	Give a report to the ASWVC at every regular Senate meeting.
 Clause 5: Director of Marketing
-A. 	Facilitate communication between students, and the ASWVC
-B. 	Serve as a member of the Executive Board of the ASWVC.
-C. 	Keep Students up to date on all issues affecting the Campus community.
-D. 	Produce a current monthly calendar of events and post the aforementioned calendar in a way that is easily and readily accessible to ASWVC student officers and West Valley students.
-E. 	Provide weekly updates on events and legislation to the Student body via ASWVC social media accounts.
-F. 	Create and post flyers and advertisements.
-    1. All flyers and advertisements should be prepared to send out before the event is held.
-G. 	Chair of the Outreach Committee.
-H. 	Give a report to the ASWVC at every regular Senate meeting.
-I. 	Abide by the ASWVC Marketing Standards and Procedures.
+A.	Facilitate communication between students, and the ASWVC
+B.	Serve as a member of the Executive Board of the ASWVC.
+C.	Keep Students up to date on all issues affecting the Campus community.
+D.	Produce a current monthly calendar of events and post the aforementioned calendar in a way that is easily and readily accessible to ASWVC student officers and West Valley students.
+E.	Provide weekly updates on events and legislation to the Student body via ASWVC social media accounts.
+F.	Create and post flyers and advertisements.
+		1. All flyers and advertisements should be prepared to send out before the event is held.
+G.	Chair of the Outreach Committee.
+H.	Give a report to the ASWVC at every regular Senate meeting.
+I.	Abide by the ASWVC Marketing Standards and Procedures.
 Clause 6: Director of Records
-    A. Maintain all ASWVC records including agendas, minutes, committee records, an authenticated copy of the ASWVC Constitution, Bylaws, Codes, and all standing rules and orders of the ASWVC and ensure that said documents are available for reference and public inspection at all times.
-    B. Serve as a member of the Executive Board of the ASWVC.
-    C. Serve as an Ex-Officio member of all ASWVC internal committee meetings for record-keeping purposes.
-    D. Perform the recording, written and by device, of the minutes of all ASWVC meetings. In the event of their absence, the presiding officer shall appoint a member of the ASWVC to perform the minute taking functions for the duration of that meeting.
-    E. Be responsible for ensuring that the minutes of the previous meeting of the
+		A. Maintain all ASWVC records including agendas, minutes, committee records, an authenticated copy of the ASWVC Constitution, Bylaws, Codes, and all standing rules and orders of the ASWVC and ensure that said documents are available for reference and public inspection at all times.
+		B. Serve as a member of the Executive Board of the ASWVC.
+		C. Serve as an Ex-Officio member of all ASWVC internal committee meetings for record-keeping purposes.
+		D. Perform the recording, written and by device, of the minutes of all ASWVC meetings. In the event of their absence, the presiding officer shall appoint a member of the ASWVC to perform the minute taking functions for the duration of that meeting.
+		E. Be responsible for ensuring that the minutes of the previous meeting of the
 ASWVC are available to the public at least seventy two (72) hours prior to the next scheduled meeting.
-    F. Update the ASWVC Constitution, Bylaws, Marketing Standards and Procedures, and Financial Code to reflect changes made in the Senate and by the student body.
-    G. Coordinate updates to the ASWVC Constitution, Bylaws, and Financial Codes to West Valley College’s Information Services to reflect changes on the website.
-    H. Give a report to the ASWVC at every regular Senate meeting.
-    I. Must attend all ASWVC internal committee meetings for minute-taking purposes.
+		F. Update the ASWVC Constitution, Bylaws, Marketing Standards and Procedures, and Financial Code to reflect changes made in the Senate and by the student body.
+		G. Coordinate updates to the ASWVC Constitution, Bylaws, and Financial Codes to West Valley College’s Information Services to reflect changes on the website.
+		H. Give a report to the ASWVC at every regular Senate meeting.
+		I. Must attend all ASWVC internal committee meetings for minute-taking purposes.
 	Clause 7: Director of Student Engagement
-    A. Serve as Chairperson for all Activities Committee meetings.
-    B. Serve on the Executive Board of the ASWVC.
-    C. Attend all ASWVC-sponsored events throughout the academic year.
-    D. Functions as project manager, and overlooks and coordinates all student-run campus activities.
-    E. Create and maintain an event calendar for each semester within one week before each semester begins.
-    F. Keep students up to date on all events affecting the campus community.
-    G. Provide updates on events to the Director of Marketing
-    H. Coordinate all set-up and takedown procedures for campus events.
-    I. Coordinate all volunteers at campus events.
-    J. Maintain a schedule of which Executive Board officers are present at each ASWVC-sponsored event.
-    K. Coordinate ASWVC-Sponsored event responsibilities of Executive Board Members to the Executive Board seventy-two (72) hours in advance of the Event. Event Responsibilities must be reviewed by the ASWVC President.
-    L. Give a report to the ASWVC at every regular Senate meeting.
-    M. Ensure that the ASWVC is hosting no fewer than two (2) (4) ASWVC-sponsored events per month.
+		A. Serve as Chairperson for all Activities Committee meetings.
+		B. Serve on the Executive Board of the ASWVC.
+		C. Attend all ASWVC-sponsored events throughout the academic year.
+		D. Functions as project manager, and overlooks and coordinates all student-run campus activities.
+		E. Create and maintain an event calendar for each semester within one week before each semester begins.
+		F. Keep students up to date on all events affecting the campus community.
+		G. Provide updates on events to the Director of Marketing
+		H. Coordinate all set-up and takedown procedures for campus events.
+		I. Coordinate all volunteers at campus events.
+		J. Maintain a schedule of which Executive Board officers are present at each ASWVC-sponsored event.
+		K. Coordinate ASWVC-Sponsored event responsibilities of Executive Board Members to the Executive Board seventy-two (72) hours in advance of the Event. Event Responsibilities must be reviewed by the ASWVC President.
+		L. Give a report to the ASWVC at every regular Senate meeting.
+		M. Ensure that the ASWVC is hosting no fewer than two (2) (4) ASWVC-sponsored events per month.
 Clause 8: Director of External Operations
-    A. Serve on the Executive Board of the ASWVC.
-    B. Research and contact outside vendors for campus events.
-    C. Work with the Director of Student Engagement on the planning process for events.
-    D. Facilitate payments with ASWVC Fiscal Assistant to vendors for campus events.
-    E. Coordinate insurance policy for the use of external vendors for on-campus events.
-    F. Serve as an Ex-Officio member on the Activities Committee.
-    G. Give a report to the ASWVC at every regular Senate meeting.
+		A. Serve on the Executive Board of the ASWVC.
+		B. Research and contact outside vendors for campus events.
+		C. Work with the Director of Student Engagement on the planning process for events.
+		D. Facilitate payments with ASWVC Fiscal Assistant to vendors for campus events.
+		E. Coordinate insurance policy for the use of external vendors for on-campus events.
+		F. Serve as an Ex-Officio member on the Activities Committee.
+		G. Give a report to the ASWVC at every regular Senate meeting.
 	Clause 9: Director of Club Relations
-    A. Serve on the Executive Board of the ASWVC.
-    B. Serve as the official ASWVC representative to all clubs on campus.
-    C. Give a report to the ASWVC at every regular Senate meeting.
-    D. Remain in contact with all active clubs to consistently provide updates and any other relevant information which regards the ASWVC and clubs.
-    E. Keep a record of all active clubs.
-    F. Serve as a liaison between clubs and ASWVC.
-    G. Plan and hold at least one club fair per semester.
-    H. Supply clubs with opportunities to promote their organization throughout the academic year.
-    I. Incorporate club participation in ASWVC events should the event include an opportunity for clubs to promote their organization and gain membership.
-    J. Communicate with clubs to keep the student body informed of any opportunities to participate in club activities, meetings, or other business.
+		A. Serve on the Executive Board of the ASWVC.
+		B. Serve as the official ASWVC representative to all clubs on campus.
+		C. Give a report to the ASWVC at every regular Senate meeting.
+		D. Remain in contact with all active clubs to consistently provide updates and any other relevant information which regards the ASWVC and clubs.
+		E. Keep a record of all active clubs.
+		F. Serve as a liaison between clubs and ASWVC.
+		G. Plan and hold at least one club fair per semester.
+		H. Supply clubs with opportunities to promote their organization throughout the academic year.
+		I. Incorporate club participation in ASWVC events should the event include an opportunity for clubs to promote their organization and gain membership.
+		J. Communicate with clubs to keep the student body informed of any opportunities to participate in club activities, meetings, or other business.
 Clause 10: Student Senator
 A.	Represent the student body by being the voice of West Valley College students to the ASWVC.
-B. 	Carry out all duties and responsibilities as delegated to them through formal action of committees and/or by direction of the Executive Board.
-C. 	Vote on all matters brought up in ASWVC Student Senate meetings, with the intent to foster positive change for all West Valley College students.
+B.	Carry out all duties and responsibilities as delegated to them through formal action of committees and/or by direction of the Executive Board.
+C.	Vote on all matters brought up in ASWVC Student Senate meetings, with the intent to foster positive change for all West Valley College students.
 Section 2: General Executive Board Responsibilities
 Clause 1: All Executive Board Members shall serve on the ASWVC Senate and follow appropriate procedures to become an active Senate Member.
-    A. Executive Board members are not subject to take the Parliamentary Procedure Test if they have previously done so as an active Senator.
+		A. Executive Board members are not subject to take the Parliamentary Procedure Test if they have previously done so as an active Senator.
 Clause 2: All Executive Board members are required to attend ⅔ of all ASWVC-sponsored events, with the exception of the ASWVC Director of Student Engagement, who must be present at all ASWVC-sponsored events
-    A. Executive Board Members shall attend the set-up and clean-up portions of events, as well as perform any respective roles at the event.
-    B. All attending Executive Board Members must be present for ⅔ of the event to be considered in attendance at the respective event.
-    C. A minimum of five (5) Executive Board members must be present at such ASWVC-sponsored events.
+		A. Executive Board Members shall attend the set-up and clean-up portions of events, as well as perform any respective roles at the event.
+		B. All attending Executive Board Members must be present for ⅔ of the event to be considered in attendance at the respective event.
+		C. A minimum of five (5) Executive Board members must be present at such ASWVC-sponsored events.
 Clause 3: All Executive Board Members are required to attend all ASWVC Senate Meetings and ASWVC Executive Board Meetings.
 Clause 4: All chairs shall be responsible for the creation of agendas for their respective meetings.
 
