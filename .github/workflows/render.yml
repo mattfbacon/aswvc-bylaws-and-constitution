@@ -5,6 +5,10 @@
     "render": {
       "runs-on": "ubuntu-latest",
       "steps": [
+        {
+          "name": "Install required packages",
+          "run": "sudo apt install fonts-liberation"
+        },
         { "uses": "actions/checkout@v4" },
         {
           "uses": "Jarivanbakel/typst-action@v3",

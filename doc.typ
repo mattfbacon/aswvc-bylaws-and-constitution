@@ -9,7 +9,7 @@ TODO:
 #let line-height = 0.7em
 
 #set page(paper: "us-letter", margin: 1in)
-#set text(font: ("Times New Roman"), size: font-size)
+#set text(font: ("Times New Roman", "Liberation Serif"), size: font-size)
 #set par(leading: line-height)
 #show par: set block(spacing: line-height)
 #set grid(gutter: line-height)
