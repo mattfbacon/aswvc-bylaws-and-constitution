@@ -214,8 +214,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 	+ Paid Hours
 		+ All ASWVC officers shall post and hold a minimum of three (3) “Office Hours” per week on behalf of the students that must be spent in their ASWVC office.
 		+ All ASWVC officers shall post and hold a minimum of three (3) “Work Hours” per week that must be spent on West Valley College’s Campus.
-		+ Three (3) instances of an officer failing to hold these hours, as posted,
-			shall equal one (1) absence, unless excused by the President or Presiding Officer (if President is not available).
+		+ Three (3) instances of an officer failing to hold these hours, as posted, shall equal one (1) absence, unless excused by the President or Presiding Officer (if President is not available).
 	+ The President, Vice President, Director of Student Engagement, and Director of Records shall keep a public record of all unexcused and excused absences for Executive Board Officers.
 
 #article(8, "Executive Board Election Process")
@@ -252,10 +251,10 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 	+ Any member of the Senate with active voting rights has the right to request a vote of no confidence.
 	+ A vote of no confidence applies to Senators and Executive Board Officers.
 	+ The request for a vote of no confidence must be lodged in an open, regularly scheduled meeting of the Senate.
-		A. A Vote of No Confidence shall be requested by a voting member of the Senate under Public Comments.
+		+ A Vote of No Confidence shall be requested by a voting member of the Senate under Public Comments.
 	+ The vote of no confidence shall be taken at the next scheduled meeting after the initial request.
 	+ A two-thirds (2/3) vote of the Senate members present and voting shall be necessary to qualify as a "vote of no confidence."
-		A. Should the Vote of No Confidence be put forth against a voting member of the ASWVC Senate or the ASWVC Executive Board, that individual does not retain the right to vote in their own Vote of No Confidence.
+		+ Should the Vote of No Confidence be put forth against a voting member of the ASWVC Senate or the ASWVC Executive Board, that individual does not retain the right to vote in their own Vote of No Confidence.
 	+ A vote of no confidence shall result in a removal of office and the loss of voting rights.
 	+ A vote of no confidence is not subject to a presidential veto.
 	+ Any person who receives a vote of no confidence has the right to appeal to the ASWVC Advisor within five (5) business days.
@@ -312,7 +311,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 + Campus Entity Funding
 	+ The ASWVC will entertain funding request for uses that will improve the student experience. Entities that may request funding include but are not limited to recognized clubs, students, student organizations, campus programs, departments and divisions of West Valley College, and staff, faculty and administration.
 	+ Funding requests must not exceed the allotted amount in the ASWVC Budget set by the Advisor and Director of Finance.
-		+If the funding request exceeds the allocated amount, the budget may be amended to allocate additional funds for funding requests in general.
+		+ If the funding request exceeds the allocated amount, the budget may be amended to allocate additional funds for funding requests in general.
 	+ All funding of entities on campus by the ASWVC must be approved in a Budget and Finance committee meeting before being put forth to the Senate.
 		+ The campus entity requesting funding must submit an agenda request to the ASWVC Director of Finance seventy-two (72) hours before a regular committee meeting for any action to be taken on the funding request.
 			+ The campus entity must include in the agenda request a description of the purpose for which funding is needed, and the dollar amount of funding needed.
@@ -411,7 +410,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 		+ Produce a current monthly calendar of events and post the aforementioned calendar in a way that is easily and readily accessible to ASWVC student officers and West Valley students.
 		+ Provide weekly updates on events and legislation to the Student body via ASWVC social media accounts.
 		+ Create and post flyers and advertisements.
-		1. All flyers and advertisements should be prepared to send out before the event is held.
+			+ All flyers and advertisements should be prepared to send out before the event is held.
 		+ Chair of the Outreach Committee.
 		+ Give a report to the ASWVC at every regular Senate meeting.
 		+ Abide by the ASWVC Marketing Standards and Procedures.
