@@ -305,32 +305,32 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 	+ Senators who miss 2 consecutive semesters will be required to repeat the steps laid out in Section 1 to be re-granted voting rights.
 	+ Should a Senator require a leave of absence after the first Senate meeting has passed, they should contact the current Vice President and decide upon further action.
 
-#article(13, "Student Organizations")
+#article(13, "Student Organizations and Funding Requests")
 + A student organization is any organization that organizes around a stated, legal and authorized purpose.
 + Each student organization must consist of a President, three (3) additional student officers, and a faculty advisor to be recognized as an organization eligible for funding and other benefits from the ASWVC.
 + Proposed student organizations must register with West Valley College through an online or physical process prior to being eligible for funding or other benefits from ASWVC. This process is repeated each semester.
-+ Student Organization Funding
-	+ Each student organization shall start each semester with zero dollars (\$0) in allotted funding, with funds to be added on a rolling basis based on ASWVC approval or fundraising endeavors.
-	+ Student organizations shall be limited to receiving a maximum of one thousand dollars (\$1000) of funding per semester from the ASWVC.
-		+ This limit shall not apply to individual fundraising endeavors pursued by an active, registered student organization.
-	+ All funding of student organizations by the ASWVC must be approved in a Budget and Finance committee meeting before being put forth to the Senate.
-		+ A student organization must submit an agenda request to the ASWVC Director of Finance seventy-two (72) hours before a regular committee meeting for any action to be taken on the funding request.
-			+ The student organization must include in the agenda request a description of the purpose for which funding is needed, and the dollar amount of funding needed.
-		+ A student organization representative must attend and give a detailed report of proposed spending for each endeavor to the committee.
++ Campus Entity Funding
+	+ The ASWVC will entertain funding request for uses that will improve the student experience. Entities that may request funding include but are not limited to recognized clubs, students, student organizations, campus programs, departments and divisions of West Valley College, and staff, faculty and administration.
+	+ Funding requests must not exceed the allotted amount in the ASWVC Budget set by the Advisor and Director of Finance.
+		+If the funding request exceeds the allocated amount, the budget may be amended to allocate additional funds for funding requests in general.
+	+ All funding of entities on campus by the ASWVC must be approved in a Budget and Finance committee meeting before being put forth to the Senate.
+		+ The campus entity requesting funding must submit an agenda request to the ASWVC Director of Finance seventy-two (72) hours before a regular committee meeting for any action to be taken on the funding request.
+			+ The campus entity must include in the agenda request a description of the purpose for which funding is needed, and the dollar amount of funding needed.
+		+ A representative of the campus entity may attend and give a detailed report of proposed spending for each endeavor to the committee.
 			+ Student organizations must include in the detailed report of proposed spending the goods or services that need to be purchased, proof of the scheduled future event or endeavor, and an explanation of the dollar amount requested as it relates to the goods or services needed. Failure to include these items will result in an automatic denial of the funding request.
 	+ The Senate shall have the final deciding vote to approve or reject club funding requests and will vote on any funding requests approved by the Budget and Finance committee at a regular meeting of the Senate.
-		+ A student organization representative must attend and give a detailed report of proposed spending for each endeavor at a regular meeting of the Senate under the standing action item, Club Funding Requests, prior to spending the funds requested.
+		+ A representative of the campus entity must attend and give a detailed report of proposed spending for each endeavor at a regular meeting of the Senate under the standing action item, Club Funding Requests, prior to spending the funds requested.
 			+ All funding requests must be discussed and voted on in this standing Senate item to be considered allocated.
-			+ Student organizations must include in the detailed report of proposed spending the goods or services that need to be purchased, proof of the scheduled future event or endeavor, and an explanation of the dollar amount requested as it relates to the goods or services needed. Failure to include these items will result in an automatic denial of the funding request.
-	+ Student organizations must share a student attendance list with the ASWVC Director of Finance following each endeavor at which ASWVC funds shall be used specifically for reimbursements.
-		+ Student organizations must submit an event flyer or other proof of the endeavor’s occurrence with the ASWVC Director of Finance to receive reimbursements.
-	+ Student organizations must provide additional information as requested by the ASWVC Director of Finance or the ASWVC Advisor when spending or requesting any and all funds, and receiving reimbursements.
+			+ Campus entities must include in the detailed report of proposed spending the goods or services that need to be purchased, proof of the scheduled future event or endeavor, and an explanation of the dollar amount requested as it relates to the goods or services needed. Failure to include these items will result in an automatic denial of the funding request.
+	+ Campus entities must share a student attendance list with the ASWVC Director of Finance following each endeavor at which ASWVC funds shall be used specifically for reimbursements.
+		+ Campus entities must submit an event flyer or other proof of the endeavor’s occurrence with the ASWVC Director of Finance to receive reimbursements.
+	+ Campus entities must provide additional information as requested by the ASWVC Director of Finance or the ASWVC Advisor when spending or requesting any and all funds, and receiving reimbursements.
+	+ Each entity capable of receiving funding shall start each semester with zero dollars (\$0) in allotted funding, with funds to be added on a rolling basis based on ASWVC approval or fundraising endeavors.
 + Student Organization Fundraisers
 	+ All fundraising proposals must be approved by the ASWVC Advisor.
 		+ A student organization representative must meet with and give a detailed report of the fundraising endeavour to the ASWVC Advisor.
 		+ Student organizations must submit proof of the fundraising endeavor’s occurrence to the ASWVC Advisor.
 		+ The ASWVC Advisor may deny any and all fundraising requests that are not equitable or allowed on the college campus at their discretion.
-+ The ASWVC shall provide a list of student organizations each semester eligible for funding so that the WVMCCD Finance department may allot a new fund account to each student organization.
 + If it becomes apparent that any sanctioned student organization is failing to fulfill its stated objectives or obligations, a two-thirds (2/3) majority vote of the Senate present and voting may revoke the funding.
 
 #article(14, "Executive Board Responsibilities")
