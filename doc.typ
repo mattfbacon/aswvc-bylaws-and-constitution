@@ -220,7 +220,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 
 #article(8, "Executive Board Election Process")
 
-+ The Election Committee shall be composed of the President, or designee if the current President is running for a position, the ASWVC Advisor, the Director of Marketing, Director of Records, Director of Student Engagement, Director of External Operations, Director of Club Relations,  and two Senate members who are not running for elected office. The purpose of this committee will be to plan and communicate the election timeline, provide platforms for candidates to campaign to the student body, and ensure that Article VIII, Section 2 through Section 8 and fair election procedures are followed.
++ The Election Committee shall be composed of the President, or designee if the current President is running for a position, the ASWVC Advisor, the Director of Marketing, Director of Records, Director of Student Engagement, Director of External Operations, Director of Club Relations, and two Senate members who are not running for elected office. The purpose of this committee will be to plan and communicate the election timeline, provide platforms for candidates to campaign to the student body, and ensure that Article VIII, Section 2 through Section 8 and fair election procedures are followed.
 + Prospective candidates must submit an application for consideration by the Election Committee by the specified deadline.
 	+ Notification of officer position openings is to be provided to all students and shall contain the following: 1) position title, 2) description of the job, 3) term of office, 4) deadline for the application, 5) phone number, 6) address or building number for further information, and 7) requirements for the position.
 	+ In the event that there are no applications submitted, the Election Committee may extend the application deadline for that position.
@@ -247,7 +247,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 #article(10, "Vote of No Confidence")
 
 + Grounds for removal of office of a Senator or Executive Board Officer shall be limited to malfeasance, misfeasance, or nonfeasance.
-+ A Senator or Executive Board Officer may immediately  be removed without a Vote of No Confidence by the College Conduct Officer if the student has been found in violation of the Student Code of Conduct.
++ A Senator or Executive Board Officer may immediately be removed without a Vote of No Confidence by the College Conduct Officer if the student has been found in violation of the Student Code of Conduct.
 + Removal of Senators and Executive Officers as per a Vote of No Confidence.
 	+ Any member of the Senate with active voting rights has the right to request a vote of no confidence.
 	+ A vote of no confidence applies to Senators and Executive Board Officers.
