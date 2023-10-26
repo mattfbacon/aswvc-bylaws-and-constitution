@@ -1,0 +1,24 @@
+{
+  "name": "Render Typst to PDF",
+  "on": "push",
+  "jobs": {
+    "render": {
+      "runs-on": "ubuntu-latest",
+      "steps": [
+        { "uses": "actions/checkout@v4" },
+        {
+          "uses": "Jarivanbakel/typst-action@v3",
+          "with": { "input_files": "doc.typ" }
+        },
+        {
+          "name": "Upload PDF file",
+          "uses": "actions/upload-artifact@v3",
+          "with": {
+            "name": "ASWVC Constitution and Bylaws",
+            "path": "doc.pdf"
+          }
+        }
+      ]
+    }
+  }
+}
