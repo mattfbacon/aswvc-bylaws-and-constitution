@@ -240,6 +240,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 + Elections will be conducted among all currently enrolled West Valley Students.
 + Elections may be conducted via electronic software.
 // TODO(amendment) add a section about voting systems... I would love to use Ranked Choice..
+// TODO ensure that the vote is confidential.
 
 #article(9, "Vacancies in the Executive Board")
 
@@ -252,6 +253,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 	+ The Executive Board will then forward two candidates to face off in a regular meeting of the ASWVC Senate for consideration.
 		+ In the event that only one student applies for any position, the Executive Board may put forth only one candidate to the Senate.
 		+ Regardless of the number of candidates forwarded, the options for consideration shall include "No Confidence".
+	// TODO ensure that the vote is confidential.
 	+ The successor to any position vacated will be appointed by a majority of the Senate.
 	+ Any position filled by the Senate shall be for the remaining period of office in said term.
 
@@ -357,6 +359,8 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 			+ Student organizations must include in the detailed report of proposed spending the goods or services that need to be purchased, proof of the scheduled future event or endeavor, and an explanation of the dollar amount requested as it relates to the goods or services needed. Failure to include these items will result in an automatic denial of the funding request.
 	// TODO this should say just "funding requests" not specifically club funding requests. This section in general is too focused on *club* funding requests.
 	+ The Senate shall have the final deciding vote to approve or reject club funding requests and will vote on any funding requests approved by the Budget and Finance committee at a regular meeting of the Senate.
+		// TODO change "must" to "may", and possibly add a section which would require club officers to meet with the Director of Club Engagement at least once a month for funding.
+		// TODO add a section which requires people who want to create clubs to meet with the Director of Club Engagement. This might replace the requirement for clubs to have an advisor, or we could say that the Director of Club Engagement would be the "pseudo-advisor" of that club.
 		+ A representative of the campus entity must attend and give a detailed report of proposed spending for each endeavor at a regular meeting of the Senate under the standing action item, Club Funding Requests, prior to spending the funds requested.
 			// TODO Must be approved, not just voted on. 🤓
 			+ All funding requests must be discussed and voted on in this standing Senate item to be considered allocated.
