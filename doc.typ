@@ -10,7 +10,7 @@ TODO:
 
 #set page(paper: "us-letter", margin: 1in)
 #set text(font: ("Times New Roman", "Liberation Serif"), size: font-size)
-#set par(leading: line-height)
+#set par(leading: line-height, linebreaks: "optimized")
 #show par: set block(spacing: line-height)
 #set grid(gutter: line-height)
 
