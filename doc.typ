@@ -415,7 +415,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 		+ Hold regularly scheduled meetings with appropriate Executive Board Members.
 		+ Review and approve event responsibilities assigned by the Director of Student Engagement to the Executive Board prior to events.
 		+ Represent the ASWVC at West Valley--Mission District Council meetings or assign a designee to do so.
-	+ Vice President Responsibilities
+	+ Vice President
 		+ Perform the duties of the President in the event of their absence, disability, or removal from the office.
 		// TODO what about a designee?
 		+ Serve as the Chairperson of the ASWVC Senate.
@@ -431,7 +431,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 		+ Have authority to appoint Senators to help with programs, events, or any other ASWVC business.
 		+ Give a report to the ASWVC at every regular Senate meeting.
 		+ Attend, represent, and vote on ASWVC's behalf at all SSCCC Region IV Meetings as the alternate delegate or appoint a designee to do so.
-	+ Student Trustee Responsibilities
+	+ Student Trustee
 		+ Inform the ASWVC of all actions of the West Valley--Mission Community College District Board of Trustees.
 		+ Serve on the Executive Board of the ASWVC.
 		// TODO no excused absences?
