@@ -1,5 +1,4 @@
 // TODO Consider changing the numbering scheme for sections, clauses, subsections, etc, to just be flat numbering, or maybe something like (1.a.i.)+. For the moment this change is active, but we do need to consider whether we want it.
-#let new-numbering = true
 
 #let font-size = 12pt
 #let line-height = 0.7em
@@ -14,38 +13,37 @@
 #show heading.where(level: 2): set block(above: 2em)
 #show heading: it => text(size: font-size, it)
 
-#let enum-nest-counter = counter("enum-nest")
-#let enum-numberings = if new-numbering {
-	(
-		"1.",
-		"a.",
-		"i.",
-		"1.",
-	).map(v => i => numbering(v, i))
-} else {
-	(
-		i => "Section " + str(i) + ":",
-		i => "Clause " + str(i) + ":",
-		i => "Subsection " + str(i) + ":",
-		i => numbering("A", i) + ".",
-	)
-}
-#show enum: it => enum-nest-counter.display(nest => block(inset: (left: if nest == 0 { 0em } else { 2em }, rest: 0pt), spacing: 0pt, {
+#let enum-nest-to-string(l) = numbering("I.1a.i.1", ..l).trim()
+#let enum-nest-counter = state("enum-nest")
+#let enum-numberings = ("1.", "a.", "i.", "1.")
+#show enum: it => enum-nest-counter.display(nest => block(inset: (left: if nest.len() > 1 { 2em } else { 0em }, rest: 0pt), spacing: 0pt, {
 	for (i, child) in it.children.enumerate(start: 1) {
 		block(spacing: line-height, {
-			[*#enum-numberings.at(nest)(i)* ]
-			enum-nest-counter.update(v => v + 1)
+			{
+				show heading: none
+				heading(level: nest.len() + 2, enum-nest-to-string(nest + (i,)))
+			}
+			[*#numbering(enum-numberings.at(nest.len() - 1), i)* ]
+			enum-nest-counter.update(v => v + (i,))
 			child.body
-			enum-nest-counter.update(v => v - 1)
+			enum-nest-counter.update(v => v.slice(0, -1))
 		})
 	}
 }))
+
+#show ref: it => locate(loc => {
+	let ref-label = it.target
+	let ref-loc = query(ref-label, loc).first().location()
+	let num = enum-nest-counter.at(ref-loc)
+	link(ref-label, enum-nest-to-string(num))
+})
 
 #let article-counter = counter(<article>)
 #article-counter.step()
 #let article(i, name) = [
 	#article-counter.update(v => { assert.eq(i, v, message: "Please fix the numbering for Article " + str(v) + ", " + str(name) + ", which is currently numbered incorrectly as Article " + str(i)); v })
 	#article-counter.display(v => [
+		#enum-nest-counter.update((v,))
 		== #[ARTICLE #numbering("I", v) (#v)\ #text(weight: "regular", underline(name)) <article>]
 	])
 ]
@@ -229,8 +227,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 
 // TODO do the other members require designees if they are also running for positions?
 + The Election Committee shall be composed of the President (or designee if the current President is running for a position), the ASWVC Advisor, Director of Marketing, Director of Records, Director of Student Engagement, Director of External Operations, Director of Club Relations, and two Senate members who are not running for elected office.
-	// TODO normalize reference
-	+ The purpose of this committee will be to plan and communicate the election timeline, provide platforms for candidates to campaign to the student body, and ensure that Article VIII, Section 2 through Section 8 and fair election procedures are followed.
+	+ The purpose of this committee will be to plan and communicate the election timeline, provide platforms for candidates to campaign to the student body, and ensure compliance with the rules outlined in this article and fair election procedures in general.
 + Prospective candidates must submit an application for consideration by the Election Committee by the specified deadline.
 	+ Notification of officer position openings is to be provided to all students and shall contain the following: position title, description of the job, term of office, deadline for the application, phone number, address or building number for further information, and requirements for the position.
 	// TODO limit by how long? And does this delay the election of the other officials, if multiple are being elected?
@@ -311,7 +308,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 // TODO did we ever give the requirement that this sign-in is provided? We may want to make this less specific, too.
 // TODO "at the beginning" meaning before approval of agenda and minutes? I'm not sure but I thought we do Appointments at the end of the first section.
 // TODO clarify that certain meetings don't count for this.
-+ Any student who is currently registered for credit at West Valley College, has passed the Parliamentary Procedure test, and has attended and signed in as a guest on the Senate Meeting Guest Sign-In Sheet for two (2) Senate Meetings will be granted voting rights at the beginning of the student’s third Senate meeting.
++ Any student who is currently registered for credit at West Valley College, has passed the Parliamentary Procedure test, and has attended and signed in as a guest on the Senate Meeting Guest Sign-In Sheet for two (2) Senate Meetings will be granted voting rights at the beginning of the student’s third Senate meeting. <to-become-senator>
 + Any Senator who has two (2) consecutive unexcused absences for regularly scheduled Senate meetings of ASWVC will have all rights and privileges, including voting, automatically suspended. All rights and privileges will be reinstated at the beginning of the student’s second consecutive regularly scheduled Senate meeting.
 	+ Attendance is defined as being present for at least 100% of the meeting or 1.25 hours, whichever is shorter.
 	// TODO(external) have we ever tracked this at all? senators arrive late all the time
@@ -342,8 +339,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 	+ Requests must be reviewed by the ASWVC Executive Board before becoming active.
 	+ An excused leave of absence is allowed for up to one semester.
 	+ Any Senate meetings missed before the request for a leave of absence will be counted against the Senator’s attendance record.
-	// TODO reference
-	+ Senators who miss two consecutive semesters will be required to repeat the steps laid out in Section 1 to be re-granted voting rights.
+	+ Senators who miss two consecutive semesters will be required to repeat the steps laid out in @to-become-senator to be re-granted voting rights.
 	+ Should a Senator require a leave of absence after the first Senate meeting has passed, they should contact the current Vice President and decide upon further action.
 
 #article(13, "Student Organizations and Funding Requests")
@@ -407,12 +403,11 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 		+ Serve as the ASWVC representative to College Council or designate an ASWVC delegate.
 		+ Serve on the Graduation Committee or assign a designee to do so.
 		+ Serve on the Career & Internship Readiness Week Committee or assign a designee to do so.
-		+ Hold ASWVC Executive Board Officers accountable to the following requirements:
+		+ Hold ASWVC Executive Board Officers accountable to the following requirements: <eboard-requirements>
 			+ Ten (10) hours of on-campus time dedicated to ASWVC activities
 			+ Attendance at all ASWVC-sponsored events
 			+ Attendance at all appropriate Executive Board, Senate, and Committee Meetings
-		// TODO reference
-		+ Coordinate appropriate disciplinary actions with ASWVC Advisor and appropriate Executive Board Member if Article XIV, Section 1, Clause 1R requirements are not followed.
+		+ Coordinate appropriate disciplinary actions with ASWVC Advisor and appropriate Executive Board Member if @eboard-requirements requirements are not followed.
 		// TODO Are they only allowed to assign a designee if they are running for office?
 		+ Serve as Chairperson for the Elections Committee or assign a designee to do so if running for office for the following academic year.
 		// TODO what about misfeasance and nonfeasance?
