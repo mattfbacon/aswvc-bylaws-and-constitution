@@ -13,7 +13,7 @@
 #show heading.where(level: 2): set block(above: 2em)
 #show heading: it => text(size: font-size, it)
 
-#let enum-nest-to-string(l) = numbering("I.1a.i.1", ..l).trim()
+#let enum-nest-to-string(l) = numbering("1.1a.i.1", ..l).trim()
 #let enum-nest-counter = state("enum-nest")
 #let enum-numberings = ("1.", "a.", "i.", "1.")
 #show enum: it => enum-nest-counter.display(nest => block(inset: (left: if nest.len() > 1 { 2em } else { 0em }, rest: 0pt), spacing: 0pt, {
