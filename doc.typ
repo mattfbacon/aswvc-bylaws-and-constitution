@@ -153,6 +153,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 	// TODO clarify what "formally" means here.
 	+ Each speaker shall be formally recognized by the acting Chairperson.
 	+ Debate on each item being considered by the Senate shall be limited to fifteen (15) minutes unless otherwise specified by a motion that is passed by a majority vote.
+	// TODO this is never done. remove?
 	+ Debate shall be extended ten (10) minutes at a time.
 	// TODO what are "personnel matters"? Clarify this. Also, does this mean the meeting MUST be closed if considering personnel matters, or just that it MUST be open if not? We could possibly use "if and only if" to clarify.
 	+ Meetings of the ASWVC shall be open to the general public. Meetings shall be closed to the public only when personnel matters are being considered.
