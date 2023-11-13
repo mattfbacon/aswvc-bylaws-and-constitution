@@ -227,6 +227,8 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 #article(8, "Executive Board Election Process")
 
 // TODO do the other members require designees if they are also running for positions?
+// TODO should the members of this committee be allowed to vote in the election?
+// TODO add a section to restrict and codify the allowed language in election ballot entries. For example, should candidates be allowed to include endorsements from previous Executive Board members?
 + The Election Committee shall be composed of the President (or designee if the current President is running for a position), the ASWVC Advisor, Director of Marketing, Director of Records, Director of Student Engagement, Director of External Operations, Director of Club Relations, and two Senate members who are not running for elected office.
 	+ The purpose of this committee will be to plan and communicate the election timeline, provide platforms for candidates to campaign to the student body, and ensure compliance with the rules outlined in this article and fair election procedures in general.
 + Prospective candidates must submit an application for consideration by the Election Committee by the specified deadline.
@@ -544,9 +546,11 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 
 #article(15, "Financial Code")
 + The usage and distribution of ASWVC funds shall be subject to a governing document known as the ASWVC Financial Code.
+	// TODO this means we also need to typst-ify the financial code
 	+ The ASWVC Financial Code shall be made publicly available in the same manner as the ASWVC Constitution and Bylaws.
 + The language of the ASWVC Financial Code shall be enacted, rescinded, or amended by a two-thirds (2/3) vote of the active ASWVC members with voting rights.
 	+ Such proposals shall be submitted as an agenda request to the ASWVC Executive Board at least 24 hours prior to the Agenda posting requirements for the meeting at which they will be voted upon.
+// TODO changes to the financial code, not bylaws
 + Adoption of the changes to the bylaws shall become effective immediately following a two-thirds (2/3) favorable vote of the Senate.
 // TODO is this more suited for the E-Board Responsibilities article?
 + The Director of Finance, along with the ASWVC Budget and Finance Committee, shall certify that the ASWVC Financial Code is enforced and up to date.
