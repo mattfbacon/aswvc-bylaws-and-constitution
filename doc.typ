@@ -384,6 +384,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 
 // TODO make ordering of "Serve on the executive board" and "Give a report at each regular meeting" items consistent between entries.
 // TODO clarify requirements for designees.
+// TODO the articles about the executive board are spread out too much. This could probably be merged with 3, 6, 7, 8, 9 to make the new 3.
 #article(14, "Executive Board Responsibilities")
 + Duties and Responsibilities by Office
 	// TODO standardize the formatting of these sections. Items immediately under the role should be imperative, while nested items should be normal sentences.
