@@ -222,7 +222,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 
 #article(9, "Vacancies in the Executive Board")
 
-+ If a position, other than President, is vacated for any reason, the ASWVC Senate shall fill the position by a majority vote.
++ If a position, other than President, is vacated for any reason, the ASWVC Senate shall fill the position by a confidential majority vote.
 	+ In the event of an absence in the office of the President, the line of succession shall be as follows: Vice President, Director of Finance, Director of Student Engagement, Director of Marketing, Director of Records, Director of External Operations, Director of Club Relations, Student Trustee.
 	+ All vacancies shall be posted for a minimum of seven (7) days, in the same manner as the ASWVC meeting agendas.
 + To apply, students shall submit an application for the open position.
