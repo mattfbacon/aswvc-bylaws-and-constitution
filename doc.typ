@@ -467,8 +467,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 	+ The ASWVC Financial Code shall be made publicly available in the same manner as the ASWVC Constitution and Bylaws.
 + The language of the ASWVC Financial Code shall be enacted, rescinded, or amended by a two-thirds (2/3) vote of the active ASWVC members with voting rights.
 	+ Such proposals shall be submitted as an agenda request to the ASWVC Executive Board at least 24 hours prior to the Agenda posting requirements for the meeting at which they will be voted upon.
-// TODO changes to the financial code, not bylaws
-+ Adoption of the changes to the bylaws shall become effective immediately following a two-thirds (2/3) favorable vote of the Senate.
++ Adoption of the changes to the Financial Code shall become effective immediately following a two-thirds (2/3) favorable vote of the Senate.
 + The Director of Finance, along with the ASWVC Budget and Finance Committee, shall certify that the ASWVC Financial Code is enforced and up to date.
 
 #article(16, "Article of Changes")
