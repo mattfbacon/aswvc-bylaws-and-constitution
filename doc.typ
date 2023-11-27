@@ -388,7 +388,9 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 		+ Serve on the Executive Board of the ASWVC.
 		+ Maintain the account for all ASWVC money on a day-to-day basis.
 		+ Submit a comprehensive monthly report of income, expenses, and state of reserves and progress of the budget of the ASWVC to the ASWVC Advisor.
+			+ Maintain a public forum at least once a month for at least one hour to present and discuss this monthly report.
 		+ Give a report every regular Senate meeting to the ASWVC of ASWVC financial status.
+			+ Include in the report a list of any individual event spending reports finalized since the last report given in an ASWVC Senate meeting, including supplementary resources, such as accounting spreadsheets, as necessary.
 		+ Keep records of decisions made in meetings.
 		+ Coordinate records with the ASWVC Advisor.
 		+ Submit all check requests and reimbursements.
