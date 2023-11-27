@@ -170,7 +170,6 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 	+ The ASWVC President can vote only in the event of a tie.
 	+ As a voting member of the ASWVC Senate, any Senators running for candidacy in an ASWVC Vacancy Process maintain the right to vote for themselves when presented to the ASWVC Senate for a roll call vote.
 + All voting members maintain the right to only vote once (1).
-+ The ASWVC Advisor has the power of veto in both the Senate and the Executive Board.
 
 #article(6, "Requirements for Executive Board Officers")
 
