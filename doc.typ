@@ -323,6 +323,11 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 		+ A student organization representative must meet with and give a detailed report of the fundraising endeavour to the ASWVC Advisor.
 		+ Student organizations must submit proof of the fundraising endeavor’s occurrence to the ASWVC Advisor.
 		+ The ASWVC Advisor may deny any and all fundraising requests that are not equitable or allowed on the college campus at their discretion.
++ Executive Board Internal Funding
+	+ The Executive Board shall receive a dedicated pool of funding, the Executive Board Internal Funding Pool, allocated in the ASWVC budget for spending without the previously described process of approval through the Budget and Finance committee.
+	+ The amount should be determined based on the financial standing of the ASWVC and historical spending of the Executive Board from this pool.
+	+ The amount may be altered as necessary by an amendment to the budget.
+	+ Funding from this pool shall be used on items such as office supplies and equipment, meeting snacks, and temporary short-term borrowing pending full reimbursement via bonafide funding requests.
 + If it becomes apparent that any sanctioned student organization is failing to fulfill its stated objectives or obligations, a two-thirds (2/3) majority vote of the Senate present and voting may revoke the funding.
 
 #article(14, "Executive Board Responsibilities")
