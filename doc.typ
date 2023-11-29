@@ -163,7 +163,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 
 #article(5, "Voting Rights")
 
-+ Senate voting privileges are limited to ASWVC Senators, Director of Finance, Director of Marketing, Director of Records, Director of Student Engagement, Director of External Operations, Director of Club Relations, and the Student Trustee.
++ Senate voting privileges are limited to ASWVC Senators.
 	+ The ASWVC Vice President can vote only in the event of a tie.
 	+ The ASWVC President has the power of veto, but has no vote in the Senate.
 + Executive Board voting privileges are limited to the ASWVC Vice President, Director of Finance, Director of Marketing, Director of Records, Director of Student Engagement, Director of External Operations, Director of Club Relations, and the Student Trustee.
