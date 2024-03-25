@@ -142,8 +142,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 + Suspension of rules shall apply only to the meeting during which the vote was taken.
 + The regular ASWVC Senate meetings will be held on Tuesdays and as written in the agenda of the previous meeting, commencing the first week of the semester and ending the week prior to finals.
 + The regular ASWVC Executive Board meetings will be held on Thursdays and as written in the agenda of the previous meeting, commencing the first week of the semester and ending the week prior to finals.
-+ All regular meetings of the ASWVC, excluding committee meetings, shall be held at 3:45 p.m. throughout the academic year and given ample (72 hours) notification in accordance with the Brown Act.
-	+ This time can be changed with two-thirds (2/3) favorable vote of the ASWVC, provided there are no conflicts with the College’s schedule.
++ All regular meetings of the ASWVC, excluding committee meetings, shall be held following ample (minimum 72 hours) notification by posting the agenda, which includes the meeting time and location, in accordance with the Brown Act.
 	+ Any regular meeting still in session after two (2) hours of the day on which it began shall immediately adjourn, unless the ASWVC extends the meeting (for a specified amount of time) by a two thirds (2/3) favorable vote of the members present and voting.
 	+ Regular meetings of the ASWVC Senate shall not be held during Summer Session and Winter Session of West Valley College.
 + Meeting Norms
