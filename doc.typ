@@ -206,16 +206,17 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 
 #article(8, "Executive Board Election Process")
 
-+ The Election Committee shall be composed of the President (or designee if the current President is running for a position), the ASWVC Advisor, Director of Marketing, Director of Records, Director of Student Engagement, Director of External Operations, Director of Club Relations, and two Senate members who are not running for elected office.
++ The Election Committee shall be composed of the President (or designee if the President is running for a position), ASWVC Advisor, and members appointed by the Vice President.
 	+ The purpose of this committee will be to plan and communicate the election timeline, provide platforms for candidates to campaign to the student body, and ensure compliance with the rules outlined in this article and fair election procedures in general.
+	+ Members of the Election Committee shall not run for a position.
 + Prospective candidates must submit an application for consideration by the Election Committee by the specified deadline.
 	+ Notification of officer position openings is to be provided to all students and shall contain the following: position title, description of the job, term of office, deadline for the application, phone number, address or building number for further information, and requirements for the position.
 	+ In the event that there are no applications submitted, the Election Committee may extend the application deadline for that position.
 	+ A student may apply for only one position during an election process.
 + Committee members shall consider all applications as private and confidential information during the formal screening process. Discussion of a candidate's information shall remain confidential between the committee and the said candidate.
 + The ASWVC Advisor shall retain all applications for one academic year, after which they may be destroyed.
-+ The election process, including a public notice of those elected, shall be completed three (3) weeks prior to the end of the academic year. The election process shall begin anytime after ten (10) weeks prior to the end of the academic year.
-+ The application for candidacy shall be open for a minimum of ten (10) days. The voting for candidates shall take place for seven (7) days.
++ The election timeline, including notification of the results, shall be provided by the Election Committee before the election.
++ The application for candidacy shall be open for a minimum of ten (10) days. The voting for candidates shall take place for five (5) business days.
 + Elections will be conducted among all currently enrolled West Valley Students.
 + Elections may be conducted via electronic software.
 
