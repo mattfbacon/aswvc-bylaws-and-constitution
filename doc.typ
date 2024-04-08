@@ -209,6 +209,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 + The Election Committee shall be composed of the President (or designee if the President is running for a position), ASWVC Advisor, and members appointed by the Vice President.
 	+ The purpose of this committee will be to plan and communicate the election timeline, provide platforms for candidates to campaign to the student body, and ensure compliance with the rules outlined in this article and fair election procedures in general.
 	+ Members of the Election Committee shall not run for a position.
+	+ This committee shall not be a standing committee.
 + Prospective candidates must submit an application for consideration by the Election Committee by the specified deadline.
 	+ Notification of officer position openings is to be provided to all students and shall contain the following: position title, description of the job, term of office, deadline for the application, phone number, address or building number for further information, and requirements for the position.
 	+ In the event that there are no applications submitted, the Election Committee may extend the application deadline for that position.
