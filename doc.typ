@@ -331,7 +331,7 @@ Article VII, Section 1, Clause 2, Section 4 added.],
 	+ Funding from this pool shall be used on items such as office supplies and equipment, meeting snacks, and temporary short-term borrowing pending full reimbursement via bonafide funding requests.
 + If it becomes apparent that any sanctioned student organization is failing to fulfill its stated objectives or obligations, a two-thirds (2/3) majority vote of the Senate present and voting may revoke the funding.
 
-#article(14, "Executive Board Responsibilities")
+#article(14, "Executive Board")
 + Duties and Responsibilities by Office
 	+ President
 		+ Act as the Chief Executive Officer and official spokesperson of the ASWVC.
